@@ -1,0 +1,8 @@
+node_modules/
+.auth/
+test-results/
+.env
+.env.*
+*.log
+*.har
+*storage-state*.json
